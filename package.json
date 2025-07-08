@@ -15,7 +15,10 @@
     "react-dom": "^18.2.0",
     "aos": "^3.0.0-beta.6",
       "react-slick": "^0.29.0",
-  "slick-carousel": "^1.8.1"
+  "slick-carousel": "^1.8.1",
+      "@mui/material": "^5.14.6",
+  "@emotion/react": "^11.11.1",
+  "@emotion/styled": "^11.11.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.0.0",
